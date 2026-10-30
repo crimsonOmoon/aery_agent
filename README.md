@@ -63,7 +63,7 @@ ollama pull qwen2.5:3b
 
 2. Install Dependencies
 
-git clone [https://github.com/YOUR_USERNAME/aery.git](https://github.com/YOUR_USERNAME/aery.git)
+git clone [https://github.com/crimsonOmoon/aery_agent.git](https://github.com/crimsonOmoon/aery_agent.git)
 cd aery
 pip install -r requirements.txt
 
