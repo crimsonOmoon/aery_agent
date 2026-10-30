@@ -84,7 +84,7 @@ AERY can run any model supported by Ollama. To switch models:
 1.Pull the desired model via terminal:
 
 ollama pull llama3.2:3b
-# or any other model, e.g., phi3.5:3.8b, llama3.2:1b
+or any other model, e.g., phi3.5:3.8b, llama3.2:1b
 
 2.Update the model name in agent.py:
 Locate the configuration variable near the top of agent.py and set it to the newly downloaded model tag:
