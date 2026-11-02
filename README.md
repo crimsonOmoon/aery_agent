@@ -50,8 +50,8 @@ AERY is designed to run on everyday budget laptops rather than high-end workstat
 
 ```text
                        ┌─────────────────────────┐
-                       │       Web Browser          │
-                       │  (Tailwind CSS / HTML)     │
+                       │       Web Browser           │
+                       │  (Tailwind CSS / HTML)      │
                        └────────────┬────────────┘
                                     │ HTTP POST (JSON)
                                     ▼
