@@ -10,7 +10,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **A lightweight, local-first AI assistant that bridges physical microcontroller sensors and live web search.**  
-*Engineered to run completely offline on entry-level laptops without expensive GPUs, cloud infrastructure, or paid API keys.*
+*Developed to run completely offline on entry-level laptops without expensive GPUs, cloud infrastructure, or paid API keys.*
 
 </div>
 
