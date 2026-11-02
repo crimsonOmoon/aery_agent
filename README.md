@@ -56,14 +56,14 @@ AERY is designed to run on everyday budget laptops rather than high-end workstat
                                     │ HTTP POST (JSON)
                                     ▼
                        ┌─────────────────────────┐
-                       │      Flask Server       │
-                       │        (arey.py)        │
+                       │      Flask Server           │
+                       │        (arey.py)            │
                        └────────────┬────────────┘
                                     │ Internal Dispatch
                                     ▼
                        ┌─────────────────────────┐
-                       │       AERY Agent        │
-                       │       (agent.py)        │
+                       │       AERY Agent            │
+                       │       (agent.py)            │
                        └─────┬─────────────┬─────┘
            Structured Schema │             │ Observation Loop
                              ▼             ▼
